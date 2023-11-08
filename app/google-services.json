@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686444284340",
+    "project_id": "myapps-db8ef",
+    "storage_bucket": "myapps-db8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686444284340:android:f0f221934ff8e84e624ae1",
+        "android_client_info": {
+          "package_name": "com.Try.MyApps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4z8lqdAnKqB738kPvX_YuaiGoSjzI4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

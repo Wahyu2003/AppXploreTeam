@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="Detail">Detail</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="avatar">image</string>
+    <string name="password_hint">Password</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+
+    -<!--    motion layout   -->
+    <string name="title_menu_1">Hello!!</string>
+    <string name="title_menu_2">Our Application</string>
+    <string name="title_menu_3">Our application</string>
+    <string name="title_menu_4">Our Team</string>
+    <string name="desc_menu_1">Ini merupakan Apps yang kami buat.</string>
+    <string name="desc_menu_2">Aplikasi ini kami buat untuk memenuhi project akhir dari Praktisi Mengajar.</string>
+    <string name="desc_menu_3">Aplikasi ini berisi fitur-fitur yang telah diajarkan ketika Praktisi Mengajar.</string>
+    <string name="desc_menu_4">Team Kami terdiri dari: Muhammad Fajar Dwi Putra, Hafid Wahyudi, Muhamad Sholiudin.</string>
+    <string name="learn_now">Masuk</string>
+    <string name="gambar_kurikulum_global">Gambar kurikulum Global</string>
+    <string name="gambar_belajar_fleksibel">Gambar belajar fleksibel</string>
+    <string name="gambar_code_reviewer">Gambar code reviewer</string>
+    <string name="gambar_alumni_terpercaya">Gambar alumni terpercaya</string>
+    <string name="gambar_dicoding">Gambar dicoding</string>
+
+</resources>

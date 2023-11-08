@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Latar belakang bulat -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/blue" /> <!-- Ganti dengan warna latar belakang yang Anda inginkan -->
+        </shape>
+    </item>
+
+    <!-- Drawable pensil yang sudah ada -->
+    <item android:drawable="@drawable/editbg" />
+</layer-list>
